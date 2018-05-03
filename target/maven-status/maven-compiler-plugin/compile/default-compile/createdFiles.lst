@@ -1,0 +1,6 @@
+hadoopMR\bean\FlowCount.class
+hadoopMR\bean\FlowCount$FlowCountMapper.class
+hadoopMR\bean\ProvincePartition.class
+hadoopMR\bean\FlowBean.class
+hadoopMR\bean\FlowCount$FlowCountReducer.class
+Singleton\Singleton.class
