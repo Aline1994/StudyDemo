@@ -89,7 +89,11 @@
 			<artifactId>zookeeper</artifactId>
 			<version>3.4.10</version>
 		</dependency>
-
+		<dependency>
+		    <groupId>org.scala-lang</groupId>
+		    <artifactId>scala-library</artifactId>
+		    <version>2.11.6</version>
+		</dependency>
 
 		<dependency>
 			<groupId>jdk.tools</groupId>
